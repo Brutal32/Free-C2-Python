@@ -1,6 +1,8 @@
 # SKID-XV
 Free C2 for all people
 
+I know, it maybe bad but j4f xd
+
 Hi User, I'm 2x2509h/Brutal32
 
 Today, I public Athena-XV and SKID-XV and it's fork from NovaSec-XV
